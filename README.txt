@@ -1,6 +1,6 @@
 Preface
 
-This app is a project that I made for my OOP class. It is a money management app that helps you keep track of your finances. You can enter your income, expenses, savings, and transactions and see how much money you have left. You can also view your spending habits and budget goals. The app is written in Java and uses a SQL database to store your data. It also uses AWT and Swing to create a graphical user interface. The app follows OOP principles and best practices to make the code easy to read and modify. I learned a lot from making this app and I hope you find it useful and fun.
+This app is a project that I made for my OOP class. It is a money management app that helps you keep track of your finances. You can enter your income, expenses, savings, and transactions and see how much money you have left. You can also view your spending habits and budget goals. The app is written in Java and uses a SQL database to store your data. It also uses AWT and Swing to create a graphical user interface. The app follows OOP principles and best practices to make the code easy to read and modify. I learned a lot from making this app and I hope you find it useful and fun. It is only optimized for 1080p display resolution at 100% scaling.
 
 ========================================================
 
