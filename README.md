@@ -17,7 +17,7 @@ Money Pakyaw is a Java desktop application for personal finance tracking, featur
 
 * **Java (AWT/Swing)** – Desktop UI
 * **JDBC** – Database connectivity
-* **MySQL (XAMPP)** – Data storage
+* **MySQL** – Data storage
 
 ## Implementation Highlights
 
